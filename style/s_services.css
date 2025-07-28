@@ -1,0 +1,11 @@
+.accordion-button:focus {
+    box-shadow: none;
+    outline: none;
+  }
+
+  /* Ajustare padding pentru titlu */
+  @media (max-width: 767px) {
+    h2 {
+      font-size: 1.5rem;
+    }
+  }
